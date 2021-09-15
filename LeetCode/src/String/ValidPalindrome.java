@@ -28,7 +28,7 @@ public class ValidPalindrome {
     }
 
     public static void main(String[] args) {
-        String s = "1A man, a plan, a canal: Panama";
+        String s = "A man, a plan, a canal: Panama";
         
         ValidPalindrome p = new ValidPalindrome();
         System.out.println(p.isPalindrome(s));

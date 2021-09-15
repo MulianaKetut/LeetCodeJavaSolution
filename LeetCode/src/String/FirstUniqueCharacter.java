@@ -55,7 +55,7 @@ public class FirstUniqueCharacter {
     }
 
     public static void main(String[] args) {
-        String s = "dasgdfb";
+        String s = "daasgdfb";
 
         FirstUniqueCharacter f = new FirstUniqueCharacter();
 

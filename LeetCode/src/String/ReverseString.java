@@ -22,7 +22,7 @@ public class ReverseString {
 
     public static void main(String[] args) {
         ReverseString rs = new ReverseString();
-        String resultantSting1 = rs.reverseString("katak");
+        String resultantSting1 = rs.reverseString("kata");
         System.out.println(resultantSting1);
     }
 }

@@ -50,11 +50,11 @@ public class ReverseInteger {
     }
 
     public static void main(String[] args) {
-        int x = 1534236469;
+        int x = 1533649;
 
         ReverseInteger r = new ReverseInteger();
 
-        r.reverse(x);
+        System.out.println(r.reverse(x));
 
     }
 }
